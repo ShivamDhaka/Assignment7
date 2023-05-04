@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumericFunction", "NumericFunction\NumericFunction.csproj", "{0BCDFA3A-2F3B-433D-B489-20D18760F611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assignment6", "assignment6\assignment6.csproj", "{F171950A-4BA6-47CA-90DE-02F61EA1CC88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BCDFA3A-2F3B-433D-B489-20D18760F611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BCDFA3A-2F3B-433D-B489-20D18760F611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BCDFA3A-2F3B-433D-B489-20D18760F611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BCDFA3A-2F3B-433D-B489-20D18760F611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F171950A-4BA6-47CA-90DE-02F61EA1CC88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F171950A-4BA6-47CA-90DE-02F61EA1CC88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F171950A-4BA6-47CA-90DE-02F61EA1CC88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F171950A-4BA6-47CA-90DE-02F61EA1CC88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {064D060D-69BD-4453-A7A8-7F2CA48F806F}
+	EndGlobalSection
+EndGlobal
